@@ -1,3 +1,4 @@
+package company;
 import java.util.Scanner;
 public class converter {
     static void main() {
